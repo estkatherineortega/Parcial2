@@ -2,6 +2,8 @@
 
 Referir al menos una clase nueva, diferente a las referidas en la librería "mi-librería.java¨ que haya incluido en su proyecto y explique de manera general sus nuevos atributos y métodos (referir fuente de información).
 
+
+
 **RESPUESTA:**
 
 Se creo una clase nueva que se llamaría pila /linea 26-27, esta seria para hacer una fila de espera prioritaria; se colocaría en pasajero.java, tendría atributos como el nombre; para saber como se llama la persona que va a ingresar,28-29. El segundo seria el numero del documento, para la identificación única del pasajero,30-31, de terceras seria edad, para saber si permite estar en el rango de edad exigido de prioritario.31-32, de terceras seria el numero del vuelo, saber en que vuelo esta el pasajero,33-34, de cuartas seria la nacionalidad, país de origen del pasajero. Después seria el constructor, este inicializa un pasajero con su información personal y estado inicial de todo los atributos. 34-40. Tendría métodos como getnombre,getdocumento, set nacionalidad, getedad asignarVuelo. 40-43 y ese seria la clase que colocaría, para dar prioridad algunos pasajeros de tercera edad puede ser.
@@ -14,19 +16,13 @@ Se creo una clase nueva que se llamaría pila /linea 26-27, esta seria para hace
 
 Si incluyo algún método de búsqueda explique su objetivo, valor de retorno y parámetros (cada una de ellos). Refiera las fuentes (donde se defina y donde se llama)
 
+
+
 **RESPUESTA:**
 
-Se crearon métodos de busca en nuestro proyecto que esta en el main, todo resto ejecuta el programa, está en aeropuerto, en la cual esta nos ayuda a que interactúe con el usuario en el menú del proyecto, aparecen todas las opciones para que el usuario pueda seleccionar alguna, este hacer algunas operaciones, ya que registra pasajeros, asignarlos, registrar el vuelo y también la gestión de todo antes de que el vuelo salga. del 14 a 24.
+Se crearon métodos de busca en nuestro proyecto que esta en el main, todo resto ejecuta el programa, está en aeropuerto, en la cual esta nos ayuda a que interactúe con el usuario en el menú del proyecto, aparecen todas las opciones para que el usuario pueda seleccionar alguna, este hacer algunas operaciones, ya que registra pasajeros, asignarlos, registrar el vuelo y también la gestión de todo antes de que el vuelo salga. del 14 a 24. Todo esto busca cada cosa que el usuario pide como el vuelo actual, el pasajero actual. el código del avión que este asociado con el vuevlo
 
 &#x20; 
-
-&#x20;\*Esta clase contiene el metodo main y coordina la ejecucion del sistema.
-
-&#x20;Objeto que representa el vuelo actual del sistema \*/
-
-&#x20;Objeto que representa el pasajero actual \*/
-
-/\*\* Objeto que representa el avion asociado al vuelo \*/
 
 
 
