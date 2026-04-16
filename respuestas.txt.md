@@ -16,11 +16,29 @@ Si incluyo algún método de búsqueda explique su objetivo, valor de retorno y 
 
 **RESPUESTA:**
 
-Se crearon varios métodos de busca en nuestro proyecto, estos fueron 
+Se crearon métodos de busca en nuestro proyecto, uno de ellos fue la clase aeropuerto, en la cual esta nos ayuda a que interactue con el usuario en el menú del proyecto, este hace operaciones, ya que registra pasajeros, asignarlos, registrar el vuelo y también la gestión de todo antes de que el vuelo salga
 
+&#x20; 
 
+&#x20;\*Esta clase contiene el metodo main y coordina la ejecucion del sistema.
 
+&#x20;Objeto que representa el vuelo actual del sistema \*/
 
+&#x20;Objeto que representa el pasajero actual \*/
+
+/\*\* Objeto que representa el avion asociado al vuelo \*/
+
+/\*\*
+
+&#x20;\* Metodo principal que inicia la ejecucion del programa.
+
+&#x20;\* 
+
+&#x20;\* Muestra el menu de opciones y permite al usuario interactuar
+
+&#x20;\* con el sistema mediante la seleccion de diferentes funcionalidades.
+
+&#x20;\* 
 
 
 
