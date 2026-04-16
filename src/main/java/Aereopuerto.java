@@ -1,7 +1,7 @@
 import com.murcia.utils.Input;
 import com.murcia.utils.Menu;
 
-public class Aereopuerto {
+public class Aereopuerto  {
 
     private Vuelo vuelo;
     private Pasajero pasajero;
